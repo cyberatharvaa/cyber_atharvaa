@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HackerAtharvaSutar
+- 👋 Hi, I’m @cyber_atharvaa
 - 👀 I’m interested in Coding & Ethical hacking
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on Cyber security
